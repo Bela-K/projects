@@ -1,0 +1,7 @@
+id,name,department,salary,primary skill,manager
+1,John Smith,Engineering,75000,,
+2,Jane Doe,Marketing,65000,SEO,
+3,Bob Johnson,Sales,60000,,
+4,Alice Brown,Engineering,80000,,
+5,Charlie Davis,HR,55000,,Eve Wilson
+6,Adam Mason,,45000,,
